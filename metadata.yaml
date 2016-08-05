@@ -1,0 +1,52 @@
+_repo: Buddhist-Psalms-translated-from-the-Japanese-of-Shinran-Shonin_7015
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Yamabe, S.
+    gutenberg_agent_id: '39971'
+    url: http://www.gutenberg.org/2009/agents/39971
+  - agent_name: Beck, L. Adams (Lily Adams)
+    aliases:
+    - Beck, Lily Moresby Adams
+    - Barrington, E.
+    - Beck, Eliza Louisa Moresby
+    deathdate: 1931
+    gutenberg_agent_id: '726'
+    url: http://www.gutenberg.org/2009/agents/726
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Louisa_Moresby
+creator:
+  author:
+    agent_name: Shinran
+    aliases:
+    - Zenshin
+    - 親鸞聖人
+    - Kenshin Daishi
+    birthdate: 1173
+    deathdate: 1263
+    gutenberg_agent_id: '2303'
+    url: http://www.gutenberg.org/2009/agents/2303
+    wikipedia: http://en.wikipedia.org/wiki/Shinran
+description: Title; Contents; Introduction; Editorial Note; Lauding The Infinite One;
+  Of Paradise; Concerning The Great Sutra; Concerning The Sutra Of The Meditation;
+  Concerning The Lesser Sutra; Of The Many Sutras Concerning The Infinite One; Concerning
+  The Welfare Of The Present World; Of Thanksgiving For Nagarjuna, The Great Teacher
+  Of India; Of Thanksgiving For Vasubandh, The Great Teacher Of India; Of Thanksgiving
+  For Donran, The Great Teacher Of China; Concerning Unrighteous Deeds; Concerning
+  Doshakuzenji; Concerning Zendo-daishi; Concerning Genshin-sozu; Concerning Honen
+  Shonin.
+gutenberg_bookshelf: Buddhism
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7015'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Wisdom of the East
+subjects:
+- !lcc 'BQ'
+- !lcsh 'Buddhism'
+- GITenberg
+title: Buddhist Psalms translated from the Japanese of Shinran Shonin
+url: http://www.gutenberg.org/ebooks/7015
