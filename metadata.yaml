@@ -1,5 +1,5 @@
 _repo: Buddhist-Psalms-translated-from-the-Japanese-of-Shinran-Shonin_7015
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translators:
   - agent_name: Yamabe, S.
@@ -14,6 +14,9 @@ contributor:
     gutenberg_agent_id: '726'
     url: http://www.gutenberg.org/2009/agents/726
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Louisa_Moresby
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shinran
@@ -34,6 +37,8 @@ description: Title; Contents; Introduction; Editorial Note; Lauding The Infinite
   For Donran, The Great Teacher Of China; Concerning Unrighteous Deeds; Concerning
   Doshakuzenji; Concerning Zendo-daishi; Concerning Genshin-sozu; Concerning Honen
   Shonin.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7015#Buddhist-Psalms-translated-from-the-Japanese-of-Shinran-Shonin
 gutenberg_bookshelf: Buddhism
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
